@@ -1,4 +1,3 @@
-
 #include <stdio.h>
  
 #define LENGTH 10   
@@ -14,12 +13,6 @@ int main()
    printf("value of area : %d", area);
    printf("%c", NEWLINE);
  
-   const int  LENGTH2 = 10;
-   const int  WIDTH2  = 5;
-
-   area = LENGTH2 * WIDTH2;
-   printf("value of area : %d", area);
-   printf("%c", NEWLINE);
    return 0;
 }
 
