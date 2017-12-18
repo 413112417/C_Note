@@ -1,0 +1,3 @@
+/home/xjh/Work/C/workspace/C_Note/CMake/build/CMakeFiles/edit_cache.dir
+/home/xjh/Work/C/workspace/C_Note/CMake/build/CMakeFiles/rebuild_cache.dir
+/home/xjh/Work/C/workspace/C_Note/CMake/build/CMakeFiles/hello.dir
